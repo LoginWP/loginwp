@@ -5,10 +5,10 @@ Tested up to: 5.8
 Stable tag: 3.0.0
 License: GPL-2.0+
 
-Grow and engage your email list.
+Redirect users to different locations after logging in and logging out.
 
 == Description ==
-Redirect users to different locations after logging in and logging out.
+Define a set of redirect rules for specific users, users with specific roles, users with specific capabilities, and a blanket rule for all other users. Also, set a redirect URL for post-registration.
 
 == Frequently Asked Questions ==
 See the website for more info https://loginwp.com/
