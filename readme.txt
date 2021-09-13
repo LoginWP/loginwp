@@ -2,7 +2,7 @@
 tags: login, logout, redirect, admin, administration, dashboard, users, authentication
 Requires at least: 4.6
 Tested up to: 5.8
-Stable tag: 3.0.0
+Stable tag: 4.0.0.1
 License: GPL-2.0+
 
 Redirect users to different locations after logging in and logging out.
@@ -15,5 +15,9 @@ See the website for more info https://loginwp.com/
 
 == Changelog ==
 
-= 3.0.0 =
+= 4.0.0.1 =
+* Fixed issue where placeholders wasn't getting saved as url.
+* Improved BuddyPress/BuddyBoss support.
+
+= 4.0.0.0 =
 * The genesis
