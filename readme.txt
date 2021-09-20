@@ -2,7 +2,7 @@
 tags: login, logout, redirect, admin, administration, dashboard, users, authentication
 Requires at least: 4.6
 Tested up to: 5.8
-Stable tag: 4.0.0.1
+Stable tag: 4.0.0.2
 License: GPL-2.0+
 
 Redirect users to different locations after logging in and logging out.
@@ -14,6 +14,9 @@ Define a set of redirect rules for specific users, users with specific roles, us
 See the website for more info https://loginwp.com/
 
 == Changelog ==
+
+= 4.0.0.2 =
+* Fixed bug where redirect_to_front_page function returned null.
 
 = 4.0.0.1 =
 * Fixed issue where placeholders wasn't getting saved as url.
