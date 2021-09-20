@@ -17,6 +17,7 @@ See the website for more info https://loginwp.com/
 
 = 4.0.0.2 =
 * Fixed bug where redirect_to_front_page function returned null.
+* Improved Restrict Content Pro support.
 
 = 4.0.0.1 =
 * Fixed issue where placeholders wasn't getting saved as url.
