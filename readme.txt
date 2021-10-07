@@ -2,7 +2,7 @@
 tags: login, logout, redirect, admin, administration, dashboard, users, authentication
 Requires at least: 4.6
 Tested up to: 5.8
-Stable tag: 4.0.0.3
+Stable tag: 4.0.0.4
 License: GPL-2.0+
 
 Redirect users to different locations after logging in and logging out.
@@ -14,6 +14,11 @@ Define a set of redirect rules for specific users, users with specific roles, us
 See the website for more info https://loginwp.com/
 
 == Changelog ==
+
+= 4.0.0.4 =
+* Added MemberMouse integration.
+* Prefixed class exist check with backslash.
+* Fixed broken link to license page from admin notice.
 
 = 4.0.0.3 =
 * Fixed multisite installation bug.
