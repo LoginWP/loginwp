@@ -1,7 +1,7 @@
 === LoginWP (Formerly Peter's Login Redirect) Pro ===
 tags: login, logout, redirect, admin, administration, dashboard, users, authentication
 Requires at least: 4.6
-Tested up to: 5.8
+Tested up to: 5.9
 Stable tag: 4.0.0.6
 License: GPL-2.0+
 
@@ -16,11 +16,12 @@ See the website for more info https://loginwp.com/
 == Changelog ==
 
 = 4.0.0.6 =
-* Added LearnDash Enrolled Course and User Group redirect conditions.
-* Added WooCommerce Purchased Product, Purchased Product Category, Active User Subscription, Active Membership Plan redirect conditions.
-* Added MemberPress Subscribed Membership redirect condition.
-* Added Restrict Content Pro Has Membership redirect condition.
-* Added LifterLMS Enrolled Course and Enrolled Membership redirect conditions.
+* Compatibility with WP 5.9.
+* Added [LearnDash](https://loginwp.com/?utm_source=wprepo&utm_medium=changelog&utm_campaign=3006#pro-conditions) Enrolled Course and User Group redirect conditions.
+* Added [WooCommerce](https://loginwp.com/?utm_source=wprepo&utm_medium=changelog&utm_campaign=3006#pro-conditions) Purchased Product, Purchased Product Category, Active User Subscription, Active Membership Plan redirect conditions.
+* Added [MemberPress](https://loginwp.com/?utm_source=wprepo&utm_medium=changelog&utm_campaign=3006#pro-conditions) Subscribed Membership redirect condition.
+* Added [Restrict Content Pro](https://loginwp.com/?utm_source=wprepo&utm_medium=changelog&utm_campaign=3006#pro-conditions) Has Membership redirect condition.
+* Added [LifterLMS](https://loginwp.com/?utm_source=wprepo&utm_medium=changelog&utm_campaign=3006#pro-conditions) Enrolled Course and Enrolled Membership redirect conditions.
 
 = 4.0.0.5 =
 * Added escaping to url fields in redirection UI
