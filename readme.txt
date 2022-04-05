@@ -2,7 +2,7 @@
 tags: login, logout, redirect, admin, administration, dashboard, users, authentication
 Requires at least: 4.6
 Tested up to: 5.9
-Stable tag: 4.0.0.7
+Stable tag: 4.0.0.8
 License: GPL-2.0+
 
 Redirect users to different locations after logging in and logging out.
@@ -14,6 +14,11 @@ Define a set of redirect rules for specific users, users with specific roles, us
 See the website for more info https://loginwp.com/
 
 == Changelog ==
+
+= 4.0.0.8 =
+* Added noncache to temporary redirects.
+* Added user_id placeholder.
+* Added wp_logout() redirection support
 
 = 4.0.0.7 =
 * Fix site and website url placeholder bug in multisite.
