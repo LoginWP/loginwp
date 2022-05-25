@@ -1,6 +1,6 @@
 === LoginWP (Formerly Peter's Login Redirect) Pro ===
 tags: login, logout, redirect, admin, administration, dashboard, users, authentication
-Requires at least: 4.6
+Requires at least: 4.7
 Tested up to: 6.0
 Stable tag: 4.0.1.0
 License: GPL-2.0+
