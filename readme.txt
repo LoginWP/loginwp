@@ -1,8 +1,8 @@
 === LoginWP (Formerly Peter's Login Redirect) Pro ===
 tags: login, logout, redirect, admin, administration, dashboard, users, authentication
 Requires at least: 4.7
-Tested up to: 6.0
-Stable tag: 4.0.2.0
+Tested up to: 6.0.2
+Stable tag: 4.0.3.0
 License: GPL-2.0+
 
 Redirect users to different locations after logging in and logging out.
@@ -15,9 +15,13 @@ See the website for more info https://loginwp.com/
 
 == Changelog ==
 
+= 4.0.3.0 =
+* Added ProfilePress membership plan integration.
+* Fixed bug with wp list pagination per page not working.
+
 = 4.0.2.0 =
-* Added Polylang integration
-* Added WPML integration
+* Added Polylang integration.
+* Added WPML integration.
 * Fixed fatal error caused by other plugin metaboxes.
 
 = 4.0.1.1 =
