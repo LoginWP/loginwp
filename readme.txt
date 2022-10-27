@@ -1,8 +1,8 @@
 === LoginWP (Formerly Peter's Login Redirect) Pro ===
 tags: login, logout, redirect, admin, administration, dashboard, users, authentication
 Requires at least: 4.7
-Tested up to: 6.0.2
-Stable tag: 4.0.3.0
+Tested up to: 6.1
+Stable tag: 4.0.4.0
 License: GPL-2.0+
 
 Redirect users to different locations after logging in and logging out.
@@ -14,6 +14,11 @@ Define a set of redirect rules for specific users, users with specific roles, us
 See the website for more info https://loginwp.com/
 
 == Changelog ==
+
+= 4.0.4.0 =
+* Added ["On First Login" condition](https://loginwp.com/?p=9697).
+* Fixed: PHP Notice Trying to get property ‘user_login’ of non-object.
+* Added redirect_to to LifterLMS sales page.
 
 = 4.0.3.0 =
 * Added ProfilePress membership plan integration.
