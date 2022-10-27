@@ -16,7 +16,7 @@ See the website for more info https://loginwp.com/
 == Changelog ==
 
 = 4.0.4.0 =
-* Added ["On First Login" condition](https://loginwp.com/?p=9697).
+* Added ["On First Login" condition](https://loginwp.com/article/redirect-wordpress-users-after-first-login/).
 * Fixed: PHP Notice Trying to get property ‘user_login’ of non-object.
 * Added redirect_to to LifterLMS sales page.
 
