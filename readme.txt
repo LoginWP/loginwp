@@ -2,7 +2,7 @@
 tags: login, logout, redirect, admin, administration, dashboard, users, authentication
 Requires at least: 4.7
 Tested up to: 6.1
-Stable tag: 4.0.6.0
+Stable tag: 4.0.7.0
 License: GPL-2.0+
 
 Redirect users to different locations after logging in and logging out.
@@ -14,6 +14,9 @@ Define a set of redirect rules for specific users, users with specific roles, us
 See the website for more info https://loginwp.com/
 
 == Changelog ==
+
+= 4.0.7.0 =
+* Added [LearnPress](https://loginwp.com/redirect-wordpress-users-after-login-learnpress/?ref=changelog) integration.
 
 = 4.0.6.0 =
 * Added [WishList Member](https://loginwp.com/redirect-wordpress-users-after-login-wishlist-members/?ref=changelog) integration.
