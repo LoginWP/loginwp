@@ -17,6 +17,9 @@ See the website for more info https://loginwp.com/
 
 = 4.0.7.0 =
 * Added [LearnPress](https://loginwp.com/redirect-wordpress-users-after-login-learnpress/?ref=changelog) integration.
+* PHP 8 improvements.
+* Fixed Warning: Undefined array key "rul_first_login"
+* Added filter to execute integrations conditions last.
 
 = 4.0.6.0 =
 * Added [WishList Member](https://loginwp.com/redirect-wordpress-users-after-login-wishlist-members/?ref=changelog) integration.
