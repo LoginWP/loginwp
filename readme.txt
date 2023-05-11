@@ -1,8 +1,8 @@
 === LoginWP (Formerly Peter's Login Redirect) Pro ===
 tags: login, logout, redirect, admin, administration, dashboard, users, authentication
 Requires at least: 4.7
-Tested up to: 6.1
-Stable tag: 4.0.7.0
+Tested up to: 6.2
+Stable tag: 4.0.8.0
 License: GPL-2.0+
 
 Redirect users to different locations after logging in and logging out.
@@ -14,6 +14,12 @@ Define a set of redirect rules for specific users, users with specific roles, us
 See the website for more info https://loginwp.com/
 
 == Changelog ==
+
+= 4.0.8.0 =
+* Improved: Compatibility PHP 8
+* Improved: Compatibility with WP 6.2
+* Fixed: Assets URL
+* Updated: Plugin’s Description
 
 = 4.0.7.0 =
 * Added [LearnPress](https://loginwp.com/redirect-wordpress-users-after-login-learnpress/?ref=changelog) integration.
